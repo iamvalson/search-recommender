@@ -89,7 +89,7 @@ overhead). A pool of 2-10 reusable connections eliminates that cost.
 **Prerequisites:** Docker Desktop with WSL2
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/iamvalson/search-recommender
 cd search-recommender/infra
 docker compose up -d --build
 ```
