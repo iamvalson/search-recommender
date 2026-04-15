@@ -129,7 +129,7 @@ curl http://localhost:8001/metrics
 | ---------------- | ----------------------- |
 | API Framework    | FastAPI + Uvicorn       |
 | Message Queue    | Apache Kafka 7.7.8      |
-| Cache            | Redis 7                 |
-| Database         | PostgreSQL 16           |
+| Cache            | Redis 8.6               |
+| Database         | PostgreSQL 18           |
 | Containerisation | Docker + Docker Compose |
 | Language         | Python 3.14             |
